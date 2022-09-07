@@ -1,0 +1,492 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SingleProduct /> component Should match snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <div
+          class="Announcement "
+        >
+          <div
+            class="container"
+          />
+        </div>
+      </div>
+      <div
+        class="container single-product"
+      >
+        <div
+          class="row"
+        >
+          <div
+            class="col-md-6"
+          >
+            <div
+              class="single-image"
+            >
+              <img
+                alt=""
+                src=""
+              />
+            </div>
+          </div>
+          <div
+            class="col-md-6"
+          >
+            <div
+              class="product-dtl"
+            >
+              <div
+                class="product-info"
+              >
+                <div
+                  class="product-name"
+                />
+              </div>
+              <div
+                class="product-count col-lg-7 "
+              >
+                <div
+                  class="flex-box d-flex justify-content-between align-items-center"
+                >
+                  <h6>
+                    Price
+                  </h6>
+                  <span>
+                    ₹
+                    
+                  </span>
+                </div>
+                <div
+                  class="flex-box d-flex justify-content-between align-items-center"
+                >
+                  <h6>
+                    Status
+                  </h6>
+                  <span>
+                    unavailable
+                  </span>
+                </div>
+                <div
+                  class="flex-box d-flex justify-content-between align-items-center"
+                >
+                  <h6>
+                    Reviews
+                  </h6>
+                  <div
+                    class="rating"
+                  >
+                    <i
+                      class="far fa-star"
+                    />
+                    <i
+                      class="far fa-star"
+                    />
+                    <i
+                      class="far fa-star"
+                    />
+                    <i
+                      class="far fa-star"
+                    />
+                    <i
+                      class="far fa-star"
+                    />
+                    <span>
+                       reviews
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="row my-5"
+        >
+          <div
+            class="col-md-6"
+          >
+            <h6
+              class="mb-3"
+            >
+              REVIEWS
+            </h6>
+            <div
+              class="alert alert-info mt-3"
+            >
+              No Reviews
+            </div>
+            <div
+              class="mb-5 mb-md-3 bg-light p-3 shadow-sm rounded"
+            />
+          </div>
+          <div
+            class="col-md-6"
+          >
+            <h6>
+              WRITE A CUSTOMER REVIEW
+            </h6>
+            <div
+              class="my-4"
+            />
+            <form>
+              <div
+                class="my-4"
+              >
+                <strong>
+                  Rating
+                </strong>
+                <select
+                  class="col-12 bg-light p-3 mt-2 border-0 rounded"
+                >
+                  <option
+                    value=""
+                  >
+                    Select...
+                  </option>
+                  <option
+                    value="1"
+                  >
+                    1 - Poor
+                  </option>
+                  <option
+                    value="2"
+                  >
+                    2 - Fair
+                  </option>
+                  <option
+                    value="3"
+                  >
+                    3 - Good
+                  </option>
+                  <option
+                    value="4"
+                  >
+                    4 - Very Good
+                  </option>
+                  <option
+                    value="5"
+                  >
+                    5 - Excellent
+                  </option>
+                </select>
+              </div>
+              <div
+                class="my-4"
+              >
+                <strong>
+                  Comment
+                </strong>
+                <textarea
+                  class="col-12 bg-light p-3 mt-2 border-0 rounded"
+                  row="3"
+                />
+              </div>
+              <div
+                class="my-3"
+              >
+                <button
+                  class="col-12 bg-black border-0 p-3 rounded text-white"
+                >
+                  SUBMIT
+                </button>
+              </div>
+            </form>
+            <div
+              class="my-3"
+            >
+              <div
+                class="alert alert-warning"
+              >
+                Please
+                 
+                <a
+                  href="/login"
+                >
+                  " 
+                  <strong>
+                    Login
+                  </strong>
+                   "
+                </a>
+                 
+                to write a review
+                 
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <div
+        class="Announcement "
+      >
+        <div
+          class="container"
+        />
+      </div>
+    </div>
+    <div
+      class="container single-product"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="col-md-6"
+        >
+          <div
+            class="single-image"
+          >
+            <img
+              alt=""
+              src=""
+            />
+          </div>
+        </div>
+        <div
+          class="col-md-6"
+        >
+          <div
+            class="product-dtl"
+          >
+            <div
+              class="product-info"
+            >
+              <div
+                class="product-name"
+              />
+            </div>
+            <div
+              class="product-count col-lg-7 "
+            >
+              <div
+                class="flex-box d-flex justify-content-between align-items-center"
+              >
+                <h6>
+                  Price
+                </h6>
+                <span>
+                  ₹
+                  
+                </span>
+              </div>
+              <div
+                class="flex-box d-flex justify-content-between align-items-center"
+              >
+                <h6>
+                  Status
+                </h6>
+                <span>
+                  unavailable
+                </span>
+              </div>
+              <div
+                class="flex-box d-flex justify-content-between align-items-center"
+              >
+                <h6>
+                  Reviews
+                </h6>
+                <div
+                  class="rating"
+                >
+                  <i
+                    class="far fa-star"
+                  />
+                  <i
+                    class="far fa-star"
+                  />
+                  <i
+                    class="far fa-star"
+                  />
+                  <i
+                    class="far fa-star"
+                  />
+                  <i
+                    class="far fa-star"
+                  />
+                  <span>
+                     reviews
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="row my-5"
+      >
+        <div
+          class="col-md-6"
+        >
+          <h6
+            class="mb-3"
+          >
+            REVIEWS
+          </h6>
+          <div
+            class="alert alert-info mt-3"
+          >
+            No Reviews
+          </div>
+          <div
+            class="mb-5 mb-md-3 bg-light p-3 shadow-sm rounded"
+          />
+        </div>
+        <div
+          class="col-md-6"
+        >
+          <h6>
+            WRITE A CUSTOMER REVIEW
+          </h6>
+          <div
+            class="my-4"
+          />
+          <form>
+            <div
+              class="my-4"
+            >
+              <strong>
+                Rating
+              </strong>
+              <select
+                class="col-12 bg-light p-3 mt-2 border-0 rounded"
+              >
+                <option
+                  value=""
+                >
+                  Select...
+                </option>
+                <option
+                  value="1"
+                >
+                  1 - Poor
+                </option>
+                <option
+                  value="2"
+                >
+                  2 - Fair
+                </option>
+                <option
+                  value="3"
+                >
+                  3 - Good
+                </option>
+                <option
+                  value="4"
+                >
+                  4 - Very Good
+                </option>
+                <option
+                  value="5"
+                >
+                  5 - Excellent
+                </option>
+              </select>
+            </div>
+            <div
+              class="my-4"
+            >
+              <strong>
+                Comment
+              </strong>
+              <textarea
+                class="col-12 bg-light p-3 mt-2 border-0 rounded"
+                row="3"
+              />
+            </div>
+            <div
+              class="my-3"
+            >
+              <button
+                class="col-12 bg-black border-0 p-3 rounded text-white"
+              >
+                SUBMIT
+              </button>
+            </div>
+          </form>
+          <div
+            class="my-3"
+          >
+            <div
+              class="alert alert-warning"
+            >
+              Please
+               
+              <a
+                href="/login"
+              >
+                " 
+                <strong>
+                  Login
+                </strong>
+                 "
+              </a>
+               
+              to write a review
+               
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

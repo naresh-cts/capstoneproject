@@ -1,0 +1,1642 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App> Component Should match snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <nav
+        class="navbar"
+      >
+        <div
+          class="nav-container"
+        >
+          <a
+            aria-current="page"
+            class="nav-logo active"
+            href="/"
+          >
+            Capstone clothing
+          </a>
+          <ul
+            class="nav-menu"
+          >
+            <li
+              class="nav-item"
+            >
+              <a
+                aria-current="page"
+                class="nav-links active"
+                data-testid="homeLink"
+                href="/"
+              >
+                Home
+              </a>
+            </li>
+            <li
+              class="nav-item"
+            >
+              <a
+                class="nav-links"
+                href="/products"
+              >
+                Products
+              </a>
+            </li>
+            <li
+              class="nav-item"
+            >
+              <a
+                class="nav-links"
+                href="/AboutUs"
+              >
+                About Us
+              </a>
+            </li>
+            <li
+              class="nav-item"
+            >
+              <a
+                class="nav-links"
+                href="/contact"
+              >
+                Contact
+              </a>
+            </li>
+          </ul>
+          <div
+            class="nav-icon"
+          >
+            <i
+              class="fas fa-bars"
+            />
+          </div>
+        </div>
+      </nav>
+      <div>
+        <div
+          class="subscribe-section bg-with-black"
+        >
+          <h1
+            class="cap-text"
+          >
+            Capstone is best Online Clothing Store
+          </h1>
+        </div>
+        <div
+          class="container"
+        >
+          <div
+            class="section"
+          >
+            <div
+              class="row"
+            >
+              <div
+                class="col-lg-12 col-md-12 article"
+              >
+                <div
+                  class="shopcontainer row"
+                >
+                  <div
+                    class="shop col-lg-4 col-md-6 col-sm-6"
+                  >
+                    <div
+                      class="border-product"
+                    >
+                      <a
+                        href="/products/1"
+                      >
+                        <div
+                          class="shopBack"
+                        >
+                          <img
+                            alt="John Players"
+                            src="/images/shirt6.webp"
+                          />
+                        </div>
+                      </a>
+                      <div
+                        class="shoptext"
+                      >
+                        <p>
+                          <a
+                            href="/products/1"
+                          >
+                            John Players
+                          </a>
+                        </p>
+                        <div
+                          class="rating"
+                        >
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <span>
+                            0 reviews
+                          </span>
+                        </div>
+                        <h3>
+                          ₹
+                          88
+                        </h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="shop col-lg-4 col-md-6 col-sm-6"
+                  >
+                    <div
+                      class="border-product"
+                    >
+                      <a
+                        href="/products/2"
+                      >
+                        <div
+                          class="shopBack"
+                        >
+                          <img
+                            alt="Wrogn"
+                            src="/images/shirt5.webp"
+                          />
+                        </div>
+                      </a>
+                      <div
+                        class="shoptext"
+                      >
+                        <p>
+                          <a
+                            href="/products/2"
+                          >
+                            Wrogn
+                          </a>
+                        </p>
+                        <div
+                          class="rating"
+                        >
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <span>
+                            0 reviews
+                          </span>
+                        </div>
+                        <h3>
+                          ₹
+                          599
+                        </h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="shop col-lg-4 col-md-6 col-sm-6"
+                  >
+                    <div
+                      class="border-product"
+                    >
+                      <a
+                        href="/products/3"
+                      >
+                        <div
+                          class="shopBack"
+                        >
+                          <img
+                            alt="Roadster"
+                            src="/images/shirt4.webp"
+                          />
+                        </div>
+                      </a>
+                      <div
+                        class="shoptext"
+                      >
+                        <p>
+                          <a
+                            href="/products/3"
+                          >
+                            Roadster
+                          </a>
+                        </p>
+                        <div
+                          class="rating"
+                        >
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <span>
+                            0 reviews
+                          </span>
+                        </div>
+                        <h3>
+                          ₹
+                          929
+                        </h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="shop col-lg-4 col-md-6 col-sm-6"
+                  >
+                    <div
+                      class="border-product"
+                    >
+                      <a
+                        href="/products/4"
+                      >
+                        <div
+                          class="shopBack"
+                        >
+                          <img
+                            alt="Flying Machine"
+                            src="/images/shirt3.webp"
+                          />
+                        </div>
+                      </a>
+                      <div
+                        class="shoptext"
+                      >
+                        <p>
+                          <a
+                            href="/products/4"
+                          >
+                            Flying Machine
+                          </a>
+                        </p>
+                        <div
+                          class="rating"
+                        >
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <span>
+                            0 reviews
+                          </span>
+                        </div>
+                        <h3>
+                          ₹
+                          399
+                        </h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="shop col-lg-4 col-md-6 col-sm-6"
+                  >
+                    <div
+                      class="border-product"
+                    >
+                      <a
+                        href="/products/5"
+                      >
+                        <div
+                          class="shopBack"
+                        >
+                          <img
+                            alt="Killer"
+                            src="/images/shirt2.webp"
+                          />
+                        </div>
+                      </a>
+                      <div
+                        class="shoptext"
+                      >
+                        <p>
+                          <a
+                            href="/products/5"
+                          >
+                            Killer
+                          </a>
+                        </p>
+                        <div
+                          class="rating"
+                        >
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <span>
+                            0 reviews
+                          </span>
+                        </div>
+                        <h3>
+                          ₹
+                          49
+                        </h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="shop col-lg-4 col-md-6 col-sm-6"
+                  >
+                    <div
+                      class="border-product"
+                    >
+                      <a
+                        href="/products/6"
+                      >
+                        <div
+                          class="shopBack"
+                        >
+                          <img
+                            alt="Pepe Jeans"
+                            src="/images/shirt1.webp"
+                          />
+                        </div>
+                      </a>
+                      <div
+                        class="shoptext"
+                      >
+                        <p>
+                          <a
+                            href="/products/6"
+                          >
+                            Pepe Jeans
+                          </a>
+                        </p>
+                        <div
+                          class="rating"
+                        >
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <span>
+                            0 reviews
+                          </span>
+                        </div>
+                        <h3>
+                          ₹
+                          29
+                        </h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="shop col-lg-4 col-md-6 col-sm-6"
+                  >
+                    <div
+                      class="border-product"
+                    >
+                      <a
+                        href="/products/7"
+                      >
+                        <div
+                          class="shopBack"
+                        >
+                          <img
+                            alt="John Players"
+                            src="/images/shirt6.webp"
+                          />
+                        </div>
+                      </a>
+                      <div
+                        class="shoptext"
+                      >
+                        <p>
+                          <a
+                            href="/products/7"
+                          >
+                            John Players
+                          </a>
+                        </p>
+                        <div
+                          class="rating"
+                        >
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <span>
+                            0 reviews
+                          </span>
+                        </div>
+                        <h3>
+                          ₹
+                          88
+                        </h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="shop col-lg-4 col-md-6 col-sm-6"
+                  >
+                    <div
+                      class="border-product"
+                    >
+                      <a
+                        href="/products/8"
+                      >
+                        <div
+                          class="shopBack"
+                        >
+                          <img
+                            alt="Wrogn"
+                            src="/images/shirt5.webp"
+                          />
+                        </div>
+                      </a>
+                      <div
+                        class="shoptext"
+                      >
+                        <p>
+                          <a
+                            href="/products/8"
+                          >
+                            Wrogn
+                          </a>
+                        </p>
+                        <div
+                          class="rating"
+                        >
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <span>
+                            0 reviews
+                          </span>
+                        </div>
+                        <h3>
+                          ₹
+                          599
+                        </h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="shop col-lg-4 col-md-6 col-sm-6"
+                  >
+                    <div
+                      class="border-product"
+                    >
+                      <a
+                        href="/products/9"
+                      >
+                        <div
+                          class="shopBack"
+                        >
+                          <img
+                            alt="Roadster"
+                            src="/images/shirt4.webp"
+                          />
+                        </div>
+                      </a>
+                      <div
+                        class="shoptext"
+                      >
+                        <p>
+                          <a
+                            href="/products/9"
+                          >
+                            Roadster
+                          </a>
+                        </p>
+                        <div
+                          class="rating"
+                        >
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <span>
+                            0 reviews
+                          </span>
+                        </div>
+                        <h3>
+                          ₹
+                          929
+                        </h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="shop col-lg-4 col-md-6 col-sm-6"
+                  >
+                    <div
+                      class="border-product"
+                    >
+                      <a
+                        href="/products/10"
+                      >
+                        <div
+                          class="shopBack"
+                        >
+                          <img
+                            alt="Flying Machine"
+                            src="/images/shirt3.webp"
+                          />
+                        </div>
+                      </a>
+                      <div
+                        class="shoptext"
+                      >
+                        <p>
+                          <a
+                            href="/products/10"
+                          >
+                            Flying Machine
+                          </a>
+                        </p>
+                        <div
+                          class="rating"
+                        >
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <span>
+                            0 reviews
+                          </span>
+                        </div>
+                        <h3>
+                          ₹
+                          399
+                        </h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="shop col-lg-4 col-md-6 col-sm-6"
+                  >
+                    <div
+                      class="border-product"
+                    >
+                      <a
+                        href="/products/11"
+                      >
+                        <div
+                          class="shopBack"
+                        >
+                          <img
+                            alt="Killer"
+                            src="/images/shirt2.webp"
+                          />
+                        </div>
+                      </a>
+                      <div
+                        class="shoptext"
+                      >
+                        <p>
+                          <a
+                            href="/products/11"
+                          >
+                            Killer
+                          </a>
+                        </p>
+                        <div
+                          class="rating"
+                        >
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <span>
+                            0 reviews
+                          </span>
+                        </div>
+                        <h3>
+                          ₹
+                          49
+                        </h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div
+                    class="shop col-lg-4 col-md-6 col-sm-6"
+                  >
+                    <div
+                      class="border-product"
+                    >
+                      <a
+                        href="/products/12"
+                      >
+                        <div
+                          class="shopBack"
+                        >
+                          <img
+                            alt="Pepe Jeans"
+                            src="/images/shirt1.webp"
+                          />
+                        </div>
+                      </a>
+                      <div
+                        class="shoptext"
+                      >
+                        <p>
+                          <a
+                            href="/products/12"
+                          >
+                            Pepe Jeans
+                          </a>
+                        </p>
+                        <div
+                          class="rating"
+                        >
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <i
+                            class="far fa-star"
+                          />
+                          <span>
+                            0 reviews
+                          </span>
+                        </div>
+                        <h3>
+                          ₹
+                          29
+                        </h3>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="ContactInfo"
+        />
+        <div
+          class="footer"
+        />
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <nav
+      class="navbar"
+    >
+      <div
+        class="nav-container"
+      >
+        <a
+          aria-current="page"
+          class="nav-logo active"
+          href="/"
+        >
+          Capstone clothing
+        </a>
+        <ul
+          class="nav-menu"
+        >
+          <li
+            class="nav-item"
+          >
+            <a
+              aria-current="page"
+              class="nav-links active"
+              data-testid="homeLink"
+              href="/"
+            >
+              Home
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-links"
+              href="/products"
+            >
+              Products
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-links"
+              href="/AboutUs"
+            >
+              About Us
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-links"
+              href="/contact"
+            >
+              Contact
+            </a>
+          </li>
+        </ul>
+        <div
+          class="nav-icon"
+        >
+          <i
+            class="fas fa-bars"
+          />
+        </div>
+      </div>
+    </nav>
+    <div>
+      <div
+        class="subscribe-section bg-with-black"
+      >
+        <h1
+          class="cap-text"
+        >
+          Capstone is best Online Clothing Store
+        </h1>
+      </div>
+      <div
+        class="container"
+      >
+        <div
+          class="section"
+        >
+          <div
+            class="row"
+          >
+            <div
+              class="col-lg-12 col-md-12 article"
+            >
+              <div
+                class="shopcontainer row"
+              >
+                <div
+                  class="shop col-lg-4 col-md-6 col-sm-6"
+                >
+                  <div
+                    class="border-product"
+                  >
+                    <a
+                      href="/products/1"
+                    >
+                      <div
+                        class="shopBack"
+                      >
+                        <img
+                          alt="John Players"
+                          src="/images/shirt6.webp"
+                        />
+                      </div>
+                    </a>
+                    <div
+                      class="shoptext"
+                    >
+                      <p>
+                        <a
+                          href="/products/1"
+                        >
+                          John Players
+                        </a>
+                      </p>
+                      <div
+                        class="rating"
+                      >
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <span>
+                          0 reviews
+                        </span>
+                      </div>
+                      <h3>
+                        ₹
+                        88
+                      </h3>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="shop col-lg-4 col-md-6 col-sm-6"
+                >
+                  <div
+                    class="border-product"
+                  >
+                    <a
+                      href="/products/2"
+                    >
+                      <div
+                        class="shopBack"
+                      >
+                        <img
+                          alt="Wrogn"
+                          src="/images/shirt5.webp"
+                        />
+                      </div>
+                    </a>
+                    <div
+                      class="shoptext"
+                    >
+                      <p>
+                        <a
+                          href="/products/2"
+                        >
+                          Wrogn
+                        </a>
+                      </p>
+                      <div
+                        class="rating"
+                      >
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <span>
+                          0 reviews
+                        </span>
+                      </div>
+                      <h3>
+                        ₹
+                        599
+                      </h3>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="shop col-lg-4 col-md-6 col-sm-6"
+                >
+                  <div
+                    class="border-product"
+                  >
+                    <a
+                      href="/products/3"
+                    >
+                      <div
+                        class="shopBack"
+                      >
+                        <img
+                          alt="Roadster"
+                          src="/images/shirt4.webp"
+                        />
+                      </div>
+                    </a>
+                    <div
+                      class="shoptext"
+                    >
+                      <p>
+                        <a
+                          href="/products/3"
+                        >
+                          Roadster
+                        </a>
+                      </p>
+                      <div
+                        class="rating"
+                      >
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <span>
+                          0 reviews
+                        </span>
+                      </div>
+                      <h3>
+                        ₹
+                        929
+                      </h3>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="shop col-lg-4 col-md-6 col-sm-6"
+                >
+                  <div
+                    class="border-product"
+                  >
+                    <a
+                      href="/products/4"
+                    >
+                      <div
+                        class="shopBack"
+                      >
+                        <img
+                          alt="Flying Machine"
+                          src="/images/shirt3.webp"
+                        />
+                      </div>
+                    </a>
+                    <div
+                      class="shoptext"
+                    >
+                      <p>
+                        <a
+                          href="/products/4"
+                        >
+                          Flying Machine
+                        </a>
+                      </p>
+                      <div
+                        class="rating"
+                      >
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <span>
+                          0 reviews
+                        </span>
+                      </div>
+                      <h3>
+                        ₹
+                        399
+                      </h3>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="shop col-lg-4 col-md-6 col-sm-6"
+                >
+                  <div
+                    class="border-product"
+                  >
+                    <a
+                      href="/products/5"
+                    >
+                      <div
+                        class="shopBack"
+                      >
+                        <img
+                          alt="Killer"
+                          src="/images/shirt2.webp"
+                        />
+                      </div>
+                    </a>
+                    <div
+                      class="shoptext"
+                    >
+                      <p>
+                        <a
+                          href="/products/5"
+                        >
+                          Killer
+                        </a>
+                      </p>
+                      <div
+                        class="rating"
+                      >
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <span>
+                          0 reviews
+                        </span>
+                      </div>
+                      <h3>
+                        ₹
+                        49
+                      </h3>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="shop col-lg-4 col-md-6 col-sm-6"
+                >
+                  <div
+                    class="border-product"
+                  >
+                    <a
+                      href="/products/6"
+                    >
+                      <div
+                        class="shopBack"
+                      >
+                        <img
+                          alt="Pepe Jeans"
+                          src="/images/shirt1.webp"
+                        />
+                      </div>
+                    </a>
+                    <div
+                      class="shoptext"
+                    >
+                      <p>
+                        <a
+                          href="/products/6"
+                        >
+                          Pepe Jeans
+                        </a>
+                      </p>
+                      <div
+                        class="rating"
+                      >
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <span>
+                          0 reviews
+                        </span>
+                      </div>
+                      <h3>
+                        ₹
+                        29
+                      </h3>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="shop col-lg-4 col-md-6 col-sm-6"
+                >
+                  <div
+                    class="border-product"
+                  >
+                    <a
+                      href="/products/7"
+                    >
+                      <div
+                        class="shopBack"
+                      >
+                        <img
+                          alt="John Players"
+                          src="/images/shirt6.webp"
+                        />
+                      </div>
+                    </a>
+                    <div
+                      class="shoptext"
+                    >
+                      <p>
+                        <a
+                          href="/products/7"
+                        >
+                          John Players
+                        </a>
+                      </p>
+                      <div
+                        class="rating"
+                      >
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <span>
+                          0 reviews
+                        </span>
+                      </div>
+                      <h3>
+                        ₹
+                        88
+                      </h3>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="shop col-lg-4 col-md-6 col-sm-6"
+                >
+                  <div
+                    class="border-product"
+                  >
+                    <a
+                      href="/products/8"
+                    >
+                      <div
+                        class="shopBack"
+                      >
+                        <img
+                          alt="Wrogn"
+                          src="/images/shirt5.webp"
+                        />
+                      </div>
+                    </a>
+                    <div
+                      class="shoptext"
+                    >
+                      <p>
+                        <a
+                          href="/products/8"
+                        >
+                          Wrogn
+                        </a>
+                      </p>
+                      <div
+                        class="rating"
+                      >
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <span>
+                          0 reviews
+                        </span>
+                      </div>
+                      <h3>
+                        ₹
+                        599
+                      </h3>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="shop col-lg-4 col-md-6 col-sm-6"
+                >
+                  <div
+                    class="border-product"
+                  >
+                    <a
+                      href="/products/9"
+                    >
+                      <div
+                        class="shopBack"
+                      >
+                        <img
+                          alt="Roadster"
+                          src="/images/shirt4.webp"
+                        />
+                      </div>
+                    </a>
+                    <div
+                      class="shoptext"
+                    >
+                      <p>
+                        <a
+                          href="/products/9"
+                        >
+                          Roadster
+                        </a>
+                      </p>
+                      <div
+                        class="rating"
+                      >
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <span>
+                          0 reviews
+                        </span>
+                      </div>
+                      <h3>
+                        ₹
+                        929
+                      </h3>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="shop col-lg-4 col-md-6 col-sm-6"
+                >
+                  <div
+                    class="border-product"
+                  >
+                    <a
+                      href="/products/10"
+                    >
+                      <div
+                        class="shopBack"
+                      >
+                        <img
+                          alt="Flying Machine"
+                          src="/images/shirt3.webp"
+                        />
+                      </div>
+                    </a>
+                    <div
+                      class="shoptext"
+                    >
+                      <p>
+                        <a
+                          href="/products/10"
+                        >
+                          Flying Machine
+                        </a>
+                      </p>
+                      <div
+                        class="rating"
+                      >
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <span>
+                          0 reviews
+                        </span>
+                      </div>
+                      <h3>
+                        ₹
+                        399
+                      </h3>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="shop col-lg-4 col-md-6 col-sm-6"
+                >
+                  <div
+                    class="border-product"
+                  >
+                    <a
+                      href="/products/11"
+                    >
+                      <div
+                        class="shopBack"
+                      >
+                        <img
+                          alt="Killer"
+                          src="/images/shirt2.webp"
+                        />
+                      </div>
+                    </a>
+                    <div
+                      class="shoptext"
+                    >
+                      <p>
+                        <a
+                          href="/products/11"
+                        >
+                          Killer
+                        </a>
+                      </p>
+                      <div
+                        class="rating"
+                      >
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <span>
+                          0 reviews
+                        </span>
+                      </div>
+                      <h3>
+                        ₹
+                        49
+                      </h3>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="shop col-lg-4 col-md-6 col-sm-6"
+                >
+                  <div
+                    class="border-product"
+                  >
+                    <a
+                      href="/products/12"
+                    >
+                      <div
+                        class="shopBack"
+                      >
+                        <img
+                          alt="Pepe Jeans"
+                          src="/images/shirt1.webp"
+                        />
+                      </div>
+                    </a>
+                    <div
+                      class="shoptext"
+                    >
+                      <p>
+                        <a
+                          href="/products/12"
+                        >
+                          Pepe Jeans
+                        </a>
+                      </p>
+                      <div
+                        class="rating"
+                      >
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <i
+                          class="far fa-star"
+                        />
+                        <span>
+                          0 reviews
+                        </span>
+                      </div>
+                      <h3>
+                        ₹
+                        29
+                      </h3>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="ContactInfo"
+      />
+      <div
+        class="footer"
+      />
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
