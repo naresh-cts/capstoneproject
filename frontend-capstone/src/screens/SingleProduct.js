@@ -6,7 +6,7 @@ import Message from "./../components/LoadingError/Error";
 import products from "../data/Products";
 
 const SingleProduct = ({ match }) => {
-  const product = products.find((p) => p._id === match?match.params.id:"");
+  const product = match?products.find((p) => p._id === match.params.id):false;
   return (
     <>
       <Header />
