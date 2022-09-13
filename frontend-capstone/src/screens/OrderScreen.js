@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Header from "./../components/Header";
 import { PayPalButton } from "react-paypal-button-v2";
 
 const OrderScreen = () => {
@@ -8,7 +7,6 @@ const OrderScreen = () => {
 
   return (
     <>
-      <Header />
       <div className="container">
         <div className="row  order-detail">
           <div className="col-lg-4 col-sm-4 mb-lg-4 mb-5 mb-sm-0">
@@ -79,7 +77,6 @@ const OrderScreen = () => {
 
         <div className="row order-products justify-content-between">
           <div className="col-lg-8">
-            {/* <Message variant="alert-info mt-5">Your order is empty</Message> */}
 
             <div className="order-product row">
               <div className="col-md-3 col-6">

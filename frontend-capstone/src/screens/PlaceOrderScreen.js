@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Header from "./../components/Header";
 
 const PlaceOrderScreen = () => {
   window.scrollTo(0, 0);
@@ -11,7 +10,6 @@ const PlaceOrderScreen = () => {
 
   return (
     <>
-      <Header />
       <div className="container">
         <div className="row  order-detail">
           <div className="col-lg-4 col-sm-4 mb-lg-4 mb-5 mb-sm-0">
@@ -69,7 +67,6 @@ const PlaceOrderScreen = () => {
 
         <div className="row order-products justify-content-between">
           <div className="col-lg-8">
-            {/* <Message variant="alert-info mt-5">Your cart is empty</Message> */}
 
             <div className="order-product row">
               <div className="col-md-3 col-6">
@@ -125,9 +122,6 @@ const PlaceOrderScreen = () => {
                 PLACE ORDER
               </Link>
             </button>
-            {/* <div className="my-3 col-12">
-                <Message variant="alert-danger">{error}</Message>
-              </div> */}
           </div>
         </div>
       </div>

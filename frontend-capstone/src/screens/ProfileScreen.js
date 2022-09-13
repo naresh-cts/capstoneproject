@@ -1,5 +1,4 @@
 import React from "react";
-import Header from "../components/Header";
 import ProfileTabs from "../components/profileComponents/ProfileTabs";
 import Orders from "./../components/profileComponents/Orders";
 
@@ -7,7 +6,6 @@ const ProfileScreen = () => {
   window.scrollTo(0, 0);
   return (
     <>
-      <Header />
       <div className="container mt-lg-5 mt-3">
         <div className="row align-items-start">
           <div className="col-lg-4 p-0 shadow ">

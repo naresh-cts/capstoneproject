@@ -1,17 +1,13 @@
 import React from "react";
-import Header from "./../components/Header";
 import ShopSection from "./../components/homeComponents/ShopSection";
-import ContactInfo from "./../components/homeComponents/ContactInfo";
-import CalltoActionSection from "./../components/homeComponents/CalltoActionSection";
-import Footer from "./../components/Footer";
 
 const HomeScreen = () => {
   return (
     <div>
-      <CalltoActionSection />
+      <div className="subscribe-section bg-with-black">
+        <h1 class="cap-text">Capstone is best Online Clothing Store</h1>
+      </div>
       <ShopSection />
-      <ContactInfo />
-      <Footer />
     </div>
   );
 };
